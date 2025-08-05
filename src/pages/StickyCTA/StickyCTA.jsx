@@ -7,7 +7,7 @@ const StickyCTA = () => {
     return (
         <div className="sticky-cta">
             <a
-                href="https://foodsandagro.pl"
+                href="https://wallone.online/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="sticky-button"
