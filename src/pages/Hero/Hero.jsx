@@ -24,6 +24,7 @@ const Hero = () => {
                         />
                     </p>
 
+
                     <a href="https://wallone.online/" target="_blank" rel="noopener noreferrer" className="cta">
                         {t('hero.button')}
                     </a>
