@@ -23,13 +23,13 @@
 }
 
 .feature h3 {
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: 700;
     margin: 0 0 10px;
 }
 
 .feature p {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: #CCCCCC;
     font-weight: 400;
     margin: 0;
@@ -43,11 +43,11 @@
     }
 
     .feature h3 {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
     }
 
     .feature p {
-        font-size: 1.25rem;
+        font-size: 1.2rem;
     }
 }
 
